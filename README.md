@@ -5,6 +5,9 @@ Names:
 Chris McCuskey
 Andrew Ferguson
 Jasmine Halladay
+Reis Iken
+Tesla Norton
+Nicky Vetos
 
 Language: C++
 Assignment: Slide Puzzle
